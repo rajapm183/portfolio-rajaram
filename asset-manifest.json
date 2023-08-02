@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-rajaram/static/css/main.dc1f541b.css",
+    "main.js": "/portfolio-rajaram/static/js/main.d43ea762.js",
+    "static/media/blob-scene-dark.svg": "/portfolio-rajaram/static/media/blob-scene-dark.fd6d7a357b900970ce1f.svg",
+    "index.html": "/portfolio-rajaram/index.html",
+    "main.dc1f541b.css.map": "/portfolio-rajaram/static/css/main.dc1f541b.css.map",
+    "main.d43ea762.js.map": "/portfolio-rajaram/static/js/main.d43ea762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1f541b.css",
+    "static/js/main.d43ea762.js"
+  ]
+}
